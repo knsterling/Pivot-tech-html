@@ -1,3 +1,15 @@
+@media (min-width: 768px) {
+    img{
+        height: 250px;
+        width: 250px;
+    }
+
+h1{
+    color: red;
+    font-size: 20px;
+    background-color: green;
+}
+}
 body{
     background-color: azure;    
 }
